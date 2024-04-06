@@ -1,5 +1,13 @@
 # Competitive-Programming-with-PYTHON
 
+### EASY - 1
+
+### MEDIUM - (1) --> 1 (in progress)
+
+### HARD - 0
+
+---
+
 Array
 
 - Two Sum - https://leetcode.com/problems/two-sum/
