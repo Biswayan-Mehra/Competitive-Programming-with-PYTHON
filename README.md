@@ -1,6 +1,6 @@
 # Competitive-Programming-with-PYTHON
 
-### EASY - 1
+### EASY - 2
 
 ### MEDIUM - (1) --> 1 (in progress)
 
