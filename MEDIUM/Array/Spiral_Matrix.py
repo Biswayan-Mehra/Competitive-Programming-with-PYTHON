@@ -56,16 +56,6 @@ for x in range(len(matrix)):
 print(sol.spiralOrder(matrix))
 
 '''
-if row_pointer >= 3:
-            i = row_pointer
-            for j in range(col_pointer, cols - col_pointer):
-                ans.append(matrix[i][j])
-        elif col_pointer >= 3:
-            j = col_pointer
-            for i in range(row_pointer, rows - row_pointer):
-                ans.append(matrix[i][j])
-'''
-'''
 Test Case
 [[1,2,3],[4,5,6],[7,8,9]]
 [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
