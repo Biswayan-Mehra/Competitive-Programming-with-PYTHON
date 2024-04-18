@@ -2,7 +2,7 @@
 
 ### EASY - 2
 
-### MEDIUM - (1) --> 1 (in progress)
+### MEDIUM - 1 (2) --> 1 (in progress)
 
 ### HARD - 0
 
