@@ -1,12 +1,15 @@
 # Competitive-Programming-with-PYTHON
 
-### EASY - 2
+### EASY --> 4
 
-### MEDIUM - 1 (2) --> 1 (in progress)
+### MEDIUM --> 11
 
-### HARD - 0
+### HARD --> 0
 
----
+--- TO DO---
+
+
+--
 
 Array
 
