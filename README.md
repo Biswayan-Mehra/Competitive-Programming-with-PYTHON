@@ -1,10 +1,7 @@
 # Competitive-Programming-with-PYTHON
 
-### EASY --> 4
+LeetCode Profile: https://leetcode.com/u/DRACODER/
 
-### MEDIUM --> 11
-
-### HARD --> 0
 
 --- TO DO---
 
